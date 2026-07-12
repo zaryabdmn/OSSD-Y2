@@ -95,8 +95,16 @@ Each Week folder will contain the tasks to be completed most probably the one we
 ##  Notes
 
 * New content will be added weekly during class
-* Instructions for each week will be inside respective folders
-* Make sure your repository is always up-to-date
+
+
+## Repository Structure
+
+- Week 09 - Python GUI Applications
+- Week 10 - Authentication System
+- Week 11 - Web Scraper with CSV Export
+- Week 12 - SQLite CRUD Applications
+
+This repository contains weekly Open Source Software Development lab assignments completed during the semester.
 
 ---
 Complete Task
